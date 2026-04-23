@@ -2,7 +2,7 @@
   "name": "@velocity-bpa/n8n-nodes-kraken-exchange",
   "version": "1.0.0",
   "description": "n8n node for Kraken Exchange cryptocurrency trading platform",
-  "license": "bsl-catalog",
+  "license": "SEE LICENSE IN LICENSE.md",
   "homepage": "https://n8n.io",
   "author": {
     "name": "Velocity BPA",
@@ -43,7 +43,7 @@
     "@typescript-eslint/parser": "^7.15.0",
     "eslint": "^8.57.0",
     "gulp": "^4.0.2",
-    "n8n-workflow": "*",
+    "n8n-workflow": "1.57.0",
     "prettier": "^3.3.2",
     "typescript": "~5.2.2"
   },
